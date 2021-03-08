@@ -1,0 +1,13 @@
+C:\Users\Huy Le\source\repos\Parentheses\Parentheses\bin\Debug\netcoreapp3.1\Parentheses.exe
+C:\Users\Huy Le\source\repos\Parentheses\Parentheses\bin\Debug\netcoreapp3.1\Parentheses.deps.json
+C:\Users\Huy Le\source\repos\Parentheses\Parentheses\bin\Debug\netcoreapp3.1\Parentheses.runtimeconfig.json
+C:\Users\Huy Le\source\repos\Parentheses\Parentheses\bin\Debug\netcoreapp3.1\Parentheses.runtimeconfig.dev.json
+C:\Users\Huy Le\source\repos\Parentheses\Parentheses\bin\Debug\netcoreapp3.1\Parentheses.dll
+C:\Users\Huy Le\source\repos\Parentheses\Parentheses\bin\Debug\netcoreapp3.1\Parentheses.pdb
+C:\Users\Huy Le\source\repos\Parentheses\Parentheses\obj\Debug\netcoreapp3.1\Parentheses.csprojAssemblyReference.cache
+C:\Users\Huy Le\source\repos\Parentheses\Parentheses\obj\Debug\netcoreapp3.1\Parentheses.AssemblyInfoInputs.cache
+C:\Users\Huy Le\source\repos\Parentheses\Parentheses\obj\Debug\netcoreapp3.1\Parentheses.AssemblyInfo.cs
+C:\Users\Huy Le\source\repos\Parentheses\Parentheses\obj\Debug\netcoreapp3.1\Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\Huy Le\source\repos\Parentheses\Parentheses\obj\Debug\netcoreapp3.1\Parentheses.dll
+C:\Users\Huy Le\source\repos\Parentheses\Parentheses\obj\Debug\netcoreapp3.1\Parentheses.pdb
+C:\Users\Huy Le\source\repos\Parentheses\Parentheses\obj\Debug\netcoreapp3.1\Parentheses.genruntimeconfig.cache
